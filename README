@@ -1,0 +1,16 @@
+NASA APOD Image Fetcher
+
+This JavaScript program fetches images from NASA's Astronomy Picture of the Day (APOD) API based on a specified date. It provides an interface for users to fetch both regular quality and high-definition (HD) images.
+
+Usage:
+Clone or download the repository.
+Open index.html in a web browser.
+Enter a date (YYYY-MM-DD) and click "Fetch Image" or "Fetch HD".
+The fetched image will display on the webpage.
+
+Dependencies:
+Requires an internet connection to access NASA's APOD API.
+
+Important Notes:
+Use valid dates.
+Replace the apiKey variable with your own NASA API key.
